@@ -7,5 +7,5 @@ function forLoop(array){
       arr += 'I am '+ i +'strange loops.';
     }
   }
-  return arr
+  return array
 }

@@ -16,7 +16,7 @@ function whileLoop(n){
   return 'done';
 }
 function maybeTrue(){
-  
+
 }
 
 function doWhileLoop(array){

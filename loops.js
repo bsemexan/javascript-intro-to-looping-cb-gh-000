@@ -3,5 +3,5 @@ function forLoop(array){
   for(let i = 0; i < 25; i++){
     arr += `I am ${i} strange loop`;
   }
-  return array
+  return arr
 }

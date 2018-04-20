@@ -3,8 +3,10 @@ function forLoop(array){
   for(let i = 0; i < 25; i++){
     if (i === 1){
       arr += `I am ${i} strange loop`;
+    } else {
+      arr += `I am ${i} strange loops`;
     }
-    
+
   }
   return arr
 }

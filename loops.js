@@ -26,4 +26,4 @@ function doWhileLoop(array){
   } while (array.length > 0 && maybeTrue());
 }
 
-do
+doWhileLoop([1,2,3,4,5])
